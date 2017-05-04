@@ -1,9 +1,9 @@
 # Sitemap proposition
 
-* Home
+* **Home**
 	* Why
 	* Succinct howto + link to 'How' page
-* How
+* **How**
 	1. Document
 		* Write an offline document
 		* Store passwords elsewhere
@@ -12,7 +12,7 @@
 		* online services
 		* 'personal services' (email accounts etc.)
 	3. What do you want to do for each service?
-* Generator
+* **Generator**
 	* For each service:
 		* Title
 		* URL / information
@@ -20,6 +20,6 @@
 			* password
 			* What to do
 	* ODS generator?
-* Testimonials and methods
+* **Testimonials and methods**
 	* Possibly interviews with people who've already done it (Karlcow & david_bgk fo instance)
-* About
+* **About****
